@@ -1,6 +1,6 @@
 import telebot
 
-CHAVE_API = '5856611792:AAHx1KEt6adrjk8RhgvGV1FgqFU_Uks3aJ8'
+CHAVE_API = '{API}'
 
 bot = telebot.TeleBot(CHAVE_API)
 
